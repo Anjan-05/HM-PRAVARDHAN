@@ -1,0 +1,6 @@
+{
+  "name": "HM Pravardhan",
+  "description": "HM Pravardhan - Government School Headmaster Development, Performance & Ranking Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

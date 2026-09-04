@@ -1,0 +1,16 @@
+{
+  "name": "hm-pravardhan-frontend",
+  "version": "1.0.0",
+  "description": "Frontend single-page web application for HM Pravardhan",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.344.0"
+  }
+}

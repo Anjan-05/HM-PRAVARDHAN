@@ -1,0 +1,15 @@
+{
+  "name": "hm-pravardhan-backend",
+  "version": "1.0.0",
+  "description": "Backend API service and scoring engine for HM Pravardhan",
+  "main": "src/routes/api.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node server.ts",
+    "dev": "tsx server.ts"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
